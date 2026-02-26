@@ -1,0 +1,2 @@
+# ignore data files (optional, sample.pdf is already committed)
+data/*

@@ -1,0 +1,15 @@
+# simplified requirements for this assignment
+crewai
+crewai[tools]
+langchain
+langchain-community
+pypdf2
+openai
+fastapi
+uvicorn[standard]
+python-dotenv
+# optional for background processing
+celery
+redis
+
+# Additional packages can be added as needed for extensions (e.g. celery, redis, sqlalchemy)
